@@ -33,3 +33,5 @@ int main()
   struct node *root = newNode();
   printNode(root);
 }
+/*https://cp-algorithms.com/
+https://codeforces.com/blog/entry/66207*/
